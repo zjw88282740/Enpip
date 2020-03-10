@@ -1,0 +1,9 @@
+Package: com.potato.enpip
+Name: Enpip
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enable PiP in iPhone
+Maintainer: Potatso
+Author: Potatso
+Section: Tweaks
